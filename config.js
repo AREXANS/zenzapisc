@@ -12,7 +12,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://zenzapi.xyz': 'YOURAPIKEY',
+	'https://zenzapi.xyz': 'RyzzBotz_0',
 }
 
 // Other
@@ -23,14 +23,14 @@ global.options = {
 }
 
 global.prefa = /^[zZ#$+.?_&<>!/\\]/
-global.owner = ["6281288339373"]
+global.owner = ["6281906412862"]
 global.sessionName = {
     legacy: "/tmp/killua-legacy",
     multi: "/tmp/killua-multi"
 }
 
-global.packname = "zenzapi"
-global.author = "https://zenzapi.xyz"
+global.packname = "RyzzBotz"
+global.author = "RyzzBotz"
 
 global.mess = (type, m) => {
     let msg = {
